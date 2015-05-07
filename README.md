@@ -30,3 +30,5 @@ EP = ONLY EPILOG TILING;
 ST = SIMPLE TILING;
 
 NoT = WITHOUT TILING;
+
+Время работы указано в секундах
